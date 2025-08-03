@@ -1,0 +1,5 @@
+{
+  "/api/video/generate/route": "app/api/video/generate/route.js",
+  "/api/video/script/route": "app/api/video/script/route.js",
+  "/page": "app/page.js"
+}
